@@ -90,7 +90,6 @@ Contact
 For any questions or feedback, feel free to reach out:
 
 Email: shakilahmedsk35@gmail.com
-GitHub: shakilahmedsk
-vbnet
-Copy code
+GitHub: https://github.com/Shakil-Ahmed-Sk
+
 
